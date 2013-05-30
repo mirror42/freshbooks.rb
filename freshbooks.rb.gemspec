@@ -1,8 +1,8 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = %q{tedkulp-freshbooks.rb}
-  s.version = "3.0.24"
+  s.name = %q{mirror42-freshbooks.rb}
+  s.version = "3.0.25"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Ben Curren"]
